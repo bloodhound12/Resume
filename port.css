@@ -1,0 +1,87 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.contained_1{
+    /* border: 2px solid green; */
+    padding: 20px;
+}
+
+ul li{
+    list-style: none;
+    float: left;
+    padding: 25px;
+    margin-top: -40px;
+}
+ul a{
+    text-decoration: none;
+    color: aquamarine;
+}
+
+a:hover{
+    color: aliceblue;
+}
+.btn_1{
+
+    background: silver;
+    color: rgb(255, 103, 1);
+    padding: 20px 45px;
+    border-radius: 15px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    float: right;
+    margin-top: -60px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.contained_2{
+    /* border: 2px solid green; */
+    float: right;
+    margin-top: 200px;
+    width: 600px;
+    margin-right: 250px;
+}
+h2{
+    color: aliceblue;
+}
+h3{
+    color: orange;
+}
+.p_1{
+    color: aquamarine;
+}
+
+.img_1{
+    /* border: 2px solid green; */
+    width: 360px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.img_2{
+    /* border: 2px solid green; */
+    float: left;
+    width: 50px;
+    margin-top: -505px;
+    margin-left: -10px;
+}
+
+.img_3{
+    /* border: 2px solid green; */
+    width: 330px;
+    float: right;
+    margin-top: -130px;
+    margin-right: -50px;
+}
+
+.button-link {
+    padding: 10px;
+    border-radius: 10px;
+    background: silver;
+    text-decoration: none;
+    color: black;
+  }
